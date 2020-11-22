@@ -1,7 +1,3 @@
-# There is no latest git package for centos 7. So building it from source using docker multi-stage builds
-# also speed-up sub-sequent builds
-
-
 ###########################################################
 # base tools and dependencies
 ###########################################################
